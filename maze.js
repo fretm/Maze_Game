@@ -39,7 +39,7 @@ if(!bound[0].classList.contains("youlose")){
        
         stat.innerHTML="congrats"
         stat.style.background="yellow"
-location.reload();
+         location.reload();
 
      
 }
